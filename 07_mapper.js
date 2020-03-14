@@ -6,7 +6,6 @@ var arr = [2, 5, 6, 3, 8, 9];
 console.log(newArr) 
 
 
-
 /* EXAMPLE 2 */
 let L = [1,2,3];
 let add = (item) => item +1;
